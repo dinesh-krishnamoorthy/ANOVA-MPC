@@ -15,7 +15,7 @@ They are proofs of concept, not a software package.
 
 A long-horizon MPC (the *expert*) is replaced by a one-step MPC with a learned terminal cost $V$. Instead of learning $V$ as one monolithic function, we anchor it at a reference point $\mathbf a$ and decompose it with anchored ANOVA (a.k.a. cut-HDMR):
 
-$$V(\mathbf{z}) = V(\mathbf{a}) + \sum_i V_i(z_i) + \sum_{i<j} V_{ij}(z_i, z_j) + \dots$$
+$$V(\mathbf{z}) = V(\mathbf{a}) + \sum_{i} V_i(z_i) + \sum_{i<j} V_{ij}(z_i, z_j) + \dots$$
 
 
 The identity is exact, and every module vanishes on the anchor cross. First-order modules need expert data only along 1-D lines, and each interaction only in the space of its own variables. The central hypothesis is that the significant modules follow the structure of the problem: its couplings, its sources of uncertainty, and its integer decisions. The notebooks test this hypothesis in three settings:
