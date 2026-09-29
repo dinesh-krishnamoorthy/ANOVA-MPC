@@ -79,7 +79,7 @@ These notebooks are shared mainly for the reviewers, as supporting material for 
 
 © 2026 Dinesh Krishnamoorthy. All rights reserved.
 
-The notebooks may be viewed, downloaded and run for the purpose of evaluating them, in particular by the reviewers of the proposal. Any other use, including copying, modifying or redistributing the code, text or figures, or incorporating them in other work, requires prior written permission from the author. See [LICENSE](LICENSE).
+The notebooks may be viewed, downloaded and run for the purpose of evaluating them, in particular by proposal reviewers. Any other use, including copying, modifying or redistributing the code, text or figures, or incorporating them in other work, requires prior written permission from the author. See [LICENSE](LICENSE).
 
 ## Contact
 
