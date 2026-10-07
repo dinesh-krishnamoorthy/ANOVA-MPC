@@ -2,7 +2,7 @@
 
 Dinesh Krishnamoorthy, Department of Engineering Cybernetics, NTNU
 
-[![DOI](https://zenodo.org/badge/334969631.svg)](https://doi.org/10.5281/zenodo.4540282)
+[![DOI](https://zenodo.org/badge/1394846563.svg)](https://doi.org/10.5281/zenodo.23213283)
 [![License: all rights reserved](https://img.shields.io/badge/license-all%20rights%20reserved-lightgrey.svg)](LICENSE)
 
 These four notebooks illustrate, on small inventory-control problems, the central idea of synthesizing modular cost-to-go functions. The idea is that the cost-to-go of a long-horizon MPC can be split *exactly* into low-dimensional modules by an anchored ANOVA decomposition. The modules can then be learned separately and composed into the terminal cost of a short-horizon MPC.
