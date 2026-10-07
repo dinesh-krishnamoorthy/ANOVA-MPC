@@ -27,7 +27,7 @@ The identity is exact, and every module vanishes on the anchor cross. First-orde
 
 | # | Notebook | Setting  |
 |---|---|---|
-| 1 | [`0_anchored_ANOVA_introduction.ipynb`](anchored_ANOVA_introduction.ipynb) | Anchored ANOVA on the Rosenbrock function |
+| 1 | [`0_anchored_ANOVA_tutorial.ipynb`](anchored_ANOVA_tutorial.ipynb) | Anchored ANOVA on the Rosenbrock function |
 | 2 | [`1_ANOVA_for_coupled_agents.ipynb`](WP2.1_ANOVA_for_coupled_agents.ipynb) | Two inventories sharing a limited supply (distributed MPC) | 
 | 3 | [`2_ANOVA_uncertainty.ipynb`](WP2.2_ANOVA_uncertainty.ipynb) | One inventory with uncertain, time-varying demand (multistage scenario MPC) | 
 | 4 | [`3_ANOVA_mixed_integer.ipynb`](WP2.3_ANOVA_mixed_integer.ipynb) | One inventory with orders in lots of 5 units (mixed-integer MPC) |
